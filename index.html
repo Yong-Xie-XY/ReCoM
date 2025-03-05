@@ -13,7 +13,6 @@
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
 
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML-full"></script>
   <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
   <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
@@ -28,7 +27,14 @@
   <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
   rel="stylesheet">
-
+  <script id="MathJax-script" src="./MathJax-master/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+    };
+</script>
   <link rel="stylesheet" href="static/css/bulma.min.css">
   <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
   <link rel="stylesheet" href="static/css/bulma-slider.min.css">
@@ -182,7 +188,7 @@ Extensive experiments on benchmark datasets validate ReCoM's effectiveness, achi
           <!-- Your image here -->
           <img src="static/images/pic2.png" alt="MY ALT TEXT" style="display: block; margin: 0 auto;">
           <h2 class="subtitle has-text-centered">
-            The gesture training and inference pipeline of our work. Given an audio input, our method aims to produce a high-fidelity gesture. We use the loss function `L_{VQ}` to optimize the compositional VQ-VAEs, enabling them to learn discrete gesture representation. We carefully employ effective data processing strategies to optimize the gesture generator, enabling it to obtain high-fidelity results. In the Inference phase, `S_{i}` denotes the `i`-th speech segment. In this phase, we use IRI and a temporal smoothing process. The RET model is our gesture generator. Additionally, `n` denotes the number of iterations, which is a variable value depending on the input. The novel inference strategy further enhances the model's performance in a non-autoregressive way.
+            The gesture training and inference pipeline of our work. Given an audio input, our method aims to produce a high-fidelity gesture. We use the loss function \(L_{VQ}\) to optimize the compositional VQ-VAEs, enabling them to learn discrete gesture representation. We carefully employ effective data processing strategies to optimize the gesture generator, enabling it to obtain high-fidelity results. In the Inference phase, \(S_{i}\) denotes the \(i\)-th speech segment. In this phase, we use IRI and a temporal smoothing process. The RET model is our gesture generator. Additionally, \(n\) denotes the number of iterations, which is a variable value depending on the input. The novel inference strategy further enhances the model's performance in a non-autoregressive way.
            </h2>
         </div>
         <br>
@@ -190,7 +196,7 @@ Extensive experiments on benchmark datasets validate ReCoM's effectiveness, achi
           <!-- Your image here -->
           <img src="static/images/pic3.png" alt="MY ALT TEXT" style="display: block; margin: 0 auto;">
           <h2 class="subtitle has-text-centered">
-            Our pipeline consists of three components: a face generator, a gesture generator and a compositional VQ-VAE. By inputting speech audio, we can obtain the corresponding gesture sequence. Among them, the face model is responsible for generating the facial movement sequence `\hat{\theta}_{face}^{1:T}`. The gesture generator aims to generate gesture indices with high confidence. These indices are then input to the compositional VQ-VAE for nearest neighbor search and decoding to obtain the gesture sequence `\hat{M}_{1:T}`.
+            Our pipeline consists of three components: a face generator, a gesture generator and a compositional VQ-VAE. By inputting speech audio, we can obtain the corresponding gesture sequence. Among them, the face model is responsible for generating the facial movement sequence \(\hat{\theta}_{face}^{1:T}\). The gesture generator aims to generate gesture indices with high confidence. These indices are then input to the compositional VQ-VAE for nearest neighbor search and decoding to obtain the gesture sequence \(\hat{M}_{1:T}\).
           </h2>
         </div>
         <br>
