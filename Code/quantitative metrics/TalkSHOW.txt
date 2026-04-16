@@ -1,0 +1,200 @@
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022927614442346256
+error=12.149970031724514
+L1_div=6.886926651000977
+fgd_dist=96.3331069969853
+feat_dist=36.71689224243164
+Beat consistency score=tensor(0.8708, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.023395247654529175
+error=12.116719076301738
+L1_div=6.890011787414551
+fgd_dist=53.37783824777364
+feat_dist=36.76884078979492
+Beat consistency score=tensor(0.8710, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.023016528422206264
+error=12.218318465813358
+L1_div=6.860903739929199
+fgd_dist=44.88614873168876
+feat_dist=36.75705337524414
+Beat consistency score=tensor(0.8716, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022843776998060773
+error=12.103741695391014
+L1_div=6.872252941131592
+fgd_dist=76.69099403091172
+feat_dist=36.70977783203125
+Beat consistency score=tensor(0.8721, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02291283770319036
+error=12.107647236334067
+L1_div=6.807247161865234
+fgd_dist=16.67097629293636
+feat_dist=36.8441162109375
+Beat consistency score=tensor(0.8725, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022762911194679537
+error=12.147116655630741
+L1_div=6.843451976776123
+fgd_dist=160.5338081083105
+feat_dist=36.64391326904297
+Beat consistency score=tensor(0.8713, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022890770075097943
+error=12.077367359328372
+L1_div=6.8378095626831055
+fgd_dist=9.054129243289594
+feat_dist=36.759033203125
+Beat consistency score=tensor(0.8717, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022995960718681503
+error=12.062514247728684
+L1_div=6.8645405769348145
+fgd_dist=62.90236968756858
+feat_dist=36.858367919921875
+Beat consistency score=tensor(0.8721, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022773822259514926
+error=12.139423730951226
+L1_div=6.850216865539551
+fgd_dist=3.230460355715877
+feat_dist=36.766380310058594
+Beat consistency score=tensor(0.8701, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022669703897286723
+error=12.133604118930782
+L1_div=6.865964412689209
+fgd_dist=62.80281416254286
+feat_dist=36.70988082885742
+Beat consistency score=tensor(0.8719, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022762430199982288
+error=12.022338346290395
+L1_div=6.874570369720459
+fgd_dist=48.268108256995106
+feat_dist=36.71897506713867
+Beat consistency score=tensor(0.8703, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022933956607229293
+error=12.06159391122997
+L1_div=6.875242233276367
+fgd_dist=86.3151811218213
+feat_dist=36.683021545410156
+Beat consistency score=tensor(0.8724, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02306191125324673
+error=12.125580401163813
+L1_div=6.905688762664795
+fgd_dist=43.316172435640624
+feat_dist=36.799720764160156
+Beat consistency score=tensor(0.8714, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02309439291196789
+error=12.112408583178247
+L1_div=6.889815807342529
+fgd_dist=26.73921815290521
+feat_dist=36.8306884765625
+Beat consistency score=tensor(0.8710, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022788940210586296
+error=12.034944693829022
+L1_div=6.903520584106445
+fgd_dist=92.21082166754593
+feat_dist=36.818702697753906
+Beat consistency score=tensor(0.8712, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02299002974567158
+error=12.076419195848883
+L1_div=6.908420085906982
+fgd_dist=15.708065676831552
+feat_dist=36.784854888916016
+Beat consistency score=tensor(0.8704, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.022928573611810377
+error=12.091402567326352
+L1_div=6.869327068328857
+fgd_dist=29.83336806571174
+feat_dist=36.679691314697266
+Beat consistency score=tensor(0.8716, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02319829023669673
+error=12.06928387540404
+L1_div=6.8809895515441895
+fgd_dist=174.3806972667055
+feat_dist=36.77506637573242
+Beat consistency score=tensor(0.8712, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02304082961547433
+error=12.110341086706791
+L1_div=6.848353385925293
+fgd_dist=108.91710754456301
+feat_dist=36.80501174926758
+Beat consistency score=tensor(0.8714, dtype=torch.float64)
+}
+
+./experiments/2022-11-02-smplx_S2G-body-pixel-3d/ckpt-99.pth : 
+{
+LVD=0.02267759359268752
+error=12.119987972330588
+L1_div=6.821018218994141
+fgd_dist=110.97750880373394
+feat_dist=36.651153564453125
+Beat consistency score=tensor(0.8719, dtype=torch.float64)
+}
+

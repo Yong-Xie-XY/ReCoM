@@ -1,0 +1,200 @@
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+
+./experiments/2022-10-19-smplx_S2G-LS3DCG/ckpt-99.pth : 
+{
+LVD=0.029310458947912336
+error=10.1856636502783
+diverse=0.0
+fgd_dist=239.17802393358366
+feat_dist=98.69424438476562
+Beat consistency score=tensor(0.9477, dtype=torch.float64)
+}
+

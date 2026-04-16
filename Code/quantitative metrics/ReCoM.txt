@@ -1,0 +1,240 @@
+Time: 2025-01-14 09:52:08
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023903300474988
+error=10.849427815119089
+diverse=0.00970230416667395
+L1_div=8.971264996943113
+fgd_dist=3.2940365760696295
+feat_dist=35.960873275756836
+Beat consistency score=tensor(0.8579, dtype=torch.float64)
+}
+
+Time: 2025-01-14 10:49:14
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023909533153732496
+error=10.84849883121928
+diverse=0.00894535662231303
+L1_div=8.982242518888526
+fgd_dist=2.2886793991547734
+feat_dist=35.94380798339844
+Beat consistency score=tensor(0.8582, dtype=torch.float64)
+}
+
+Time: 2025-01-14 11:45:02
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023897414953474003
+error=10.848766992261828
+diverse=0.009600823923120247
+L1_div=8.98111693349102
+fgd_dist=2.4056470941242196
+feat_dist=35.95131149291992
+Beat consistency score=tensor(0.8580, dtype=torch.float64)
+}
+
+Time: 2025-01-14 12:40:09
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023909260338272904
+error=10.844821091089432
+diverse=0.008760553822035395
+L1_div=8.982707980662603
+fgd_dist=3.012220489030369
+feat_dist=35.94359817504883
+Beat consistency score=tensor(0.8581, dtype=torch.float64)
+}
+
+Time: 2025-01-14 13:39:52
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.02390245542393814
+error=10.84726058362314
+diverse=0.009766895582166866
+L1_div=8.983688894034996
+fgd_dist=3.0867729494581795
+feat_dist=35.97447937011719
+Beat consistency score=tensor(0.8583, dtype=torch.float64)
+}
+
+Time: 2025-01-14 14:34:56
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023891279789748057
+error=10.847369546949338
+diverse=0.008898054488389857
+L1_div=8.98467065873495
+fgd_dist=2.768772971670785
+feat_dist=35.93873275756836
+Beat consistency score=tensor(0.8581, dtype=torch.float64)
+}
+
+Time: 2025-01-14 15:30:55
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023891078933645112
+error=10.848768813829153
+diverse=0.009302924213907311
+L1_div=8.981691822095122
+fgd_dist=3.320036110920512
+feat_dist=36.009072265625
+Beat consistency score=tensor(0.8583, dtype=torch.float64)
+}
+
+Time: 2025-01-14 16:31:34
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023899576352925
+error=10.849268038035683
+diverse=0.009268549248073184
+L1_div=8.982988044246346
+fgd_dist=2.24131358806909
+feat_dist=35.94123306274414
+Beat consistency score=tensor(0.8582, dtype=torch.float64)
+}
+
+Time: 2025-01-14 17:31:18
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023924128263385778
+error=10.847150253360624
+diverse=0.00967607201651739
+L1_div=8.981760161858553
+fgd_dist=1.6446046786979878
+feat_dist=35.94991912841797
+Beat consistency score=tensor(0.8582, dtype=torch.float64)
+}
+
+Time: 2025-01-14 18:27:11
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023895396851923434
+error=10.848153084289548
+diverse=0.008201096091094562
+L1_div=8.985251799946484
+fgd_dist=5.014907014911046
+feat_dist=35.94679489135742
+Beat consistency score=tensor(0.8580, dtype=torch.float64)
+}
+
+Time: 2025-01-14 19:24:16
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023899846169604753
+error=10.843791181821638
+diverse=0.008821282307777229
+L1_div=8.98225097057202
+fgd_dist=2.8793045270082303
+feat_dist=35.944410705566406
+Beat consistency score=tensor(0.8577, dtype=torch.float64)
+}
+
+Time: 2025-01-14 20:20:56
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.02391406704347988
+error=10.846700966637508
+diverse=0.009255489916158842
+L1_div=8.979368927832805
+fgd_dist=2.322995842928151
+feat_dist=35.94201889038086
+Beat consistency score=tensor(0.8580, dtype=torch.float64)
+}
+
+Time: 2025-01-14 21:18:29
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023906627161524314
+error=10.849358185990036
+diverse=0.008164278887102083
+L1_div=8.990296414748673
+fgd_dist=1.8059930627974836
+feat_dist=35.95345916748047
+Beat consistency score=tensor(0.8578, dtype=torch.float64)
+}
+
+Time: 2025-01-14 22:19:16
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023908318600498725
+error=10.846868045439567
+diverse=0.009410143097088729
+L1_div=8.98617253754032
+fgd_dist=2.1487447464391494
+feat_dist=35.922274475097656
+Beat consistency score=tensor(0.8578, dtype=torch.float64)
+}
+
+Time: 2025-01-14 23:17:41
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.02390299833436968
+error=10.847137451917803
+diverse=0.00937654298256138
+L1_div=8.985829666725898
+fgd_dist=2.610367468049276
+feat_dist=35.973148040771484
+Beat consistency score=tensor(0.8576, dtype=torch.float64)
+}
+
+Time: 2025-01-15 00:20:37
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023908252286496935
+error=10.851737114654199
+diverse=0.009025921006414956
+L1_div=8.985522152111237
+fgd_dist=2.2982195897183146
+feat_dist=36.070645599365234
+Beat consistency score=tensor(0.8580, dtype=torch.float64)
+}
+
+Time: 2025-01-15 01:21:06
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.023894042395774782
+error=10.847199064052257
+diverse=0.008691383931343787
+L1_div=8.98229354888423
+fgd_dist=1.7491549181384585
+feat_dist=35.937620544433594
+Beat consistency score=tensor(0.8580, dtype=torch.float64)
+}
+
+Time: 2025-01-15 02:19:47
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.0239074751423309
+error=10.84879445932663
+diverse=0.008929657072405518
+L1_div=8.984453576930918
+fgd_dist=1.5429410918636677
+feat_dist=36.04401397705078
+Beat consistency score=tensor(0.8579, dtype=torch.float64)
+}
+
+Time: 2025-01-15 03:18:18
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.02391765921159977
+error=10.848378364127534
+diverse=0.008589358169705089
+L1_div=8.98426970070292
+fgd_dist=1.6179020140704665
+feat_dist=35.94353332519531
+Beat consistency score=tensor(0.8579, dtype=torch.float64)
+}
+
+Time: 2025-01-15 04:16:06
+./experiments/2024-07-25-15clock-smplx_S2G-base-ViT/ckpt-99.pth : 
+{
+LVD=0.02390451195215049
+error=10.848773329665098
+diverse=0.009144661932750557
+L1_div=8.982429716581292
+fgd_dist=1.580767497723457
+feat_dist=36.04041290283203
+Beat consistency score=tensor(0.8579, dtype=torch.float64)
+}
+

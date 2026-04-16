@@ -1,0 +1,221 @@
+
+Time: 2024-12-13 10:56:29
+probtalk : 
+{
+error=10.993348121643066
+diverse=0.33921581506729126
+L1_div=7.654969215393066
+fgd_dist=13.275710947869356
+feat_dist=35.89169692993164
+Beat consistency score=tensor(0.7842, dtype=torch.float64)
+}
+
+Time: 2024-12-13 11:08:46
+probtalk : 
+{
+error=10.960593223571777
+diverse=0.32962343096733093
+L1_div=7.675201892852783
+fgd_dist=22.248817120769218
+feat_dist=35.81863021850586
+Beat consistency score=tensor(0.7845, dtype=torch.float64)
+}
+
+Time: 2024-12-13 11:21:08
+probtalk : 
+{
+error=10.980024337768555
+diverse=0.33511319756507874
+L1_div=7.723782062530518
+fgd_dist=22.4338163489341
+feat_dist=35.77375793457031
+Beat consistency score=tensor(0.7829, dtype=torch.float64)
+}
+
+Time: 2024-12-13 11:33:21
+probtalk : 
+{
+error=10.992775917053223
+diverse=0.3265235424041748
+L1_div=7.650846004486084
+fgd_dist=6.856646035847632
+feat_dist=36.06077575683594
+Beat consistency score=tensor(0.7842, dtype=torch.float64)
+}
+
+Time: 2024-12-13 11:45:39
+probtalk : 
+{
+error=10.996133804321289
+diverse=0.3279450535774231
+L1_div=7.714585781097412
+fgd_dist=2.15975528210231
+feat_dist=36.456329345703125
+Beat consistency score=tensor(0.7827, dtype=torch.float64)
+}
+
+Time: 2024-12-13 11:57:49
+probtalk : 
+{
+error=10.973236083984375
+diverse=0.3290069103240967
+L1_div=7.674744129180908
+fgd_dist=27.165103089350964
+feat_dist=35.722862243652344
+Beat consistency score=tensor(0.7845, dtype=torch.float64)
+}
+
+Time: 2024-12-13 12:09:55
+probtalk : 
+{
+error=10.947112083435059
+diverse=0.3330278694629669
+L1_div=7.624413013458252
+fgd_dist=5.647230091595816
+feat_dist=36.1911735534668
+Beat consistency score=tensor(0.7828, dtype=torch.float64)
+}
+
+Time: 2024-12-13 12:21:48
+probtalk : 
+{
+error=10.991050720214844
+diverse=0.3302015960216522
+L1_div=7.682276725769043
+fgd_dist=2.797268316950067
+feat_dist=36.36968994140625
+Beat consistency score=tensor(0.7838, dtype=torch.float64)
+}
+
+Time: 2024-12-13 12:33:51
+probtalk : 
+{
+error=11.009520530700684
+diverse=0.34249964356422424
+L1_div=7.707272052764893
+fgd_dist=80.49069957812947
+feat_dist=35.30116271972656
+Beat consistency score=tensor(0.7848, dtype=torch.float64)
+}
+
+Time: 2024-12-13 12:45:52
+probtalk : 
+{
+error=10.939011573791504
+diverse=0.3339572250843048
+L1_div=7.650254249572754
+fgd_dist=2.487724716965147
+feat_dist=36.4438591003418
+Beat consistency score=tensor(0.7832, dtype=torch.float64)
+}
+
+Time: 2024-12-13 12:58:02
+probtalk : 
+{
+error=10.95074462890625
+diverse=0.3214206397533417
+L1_div=7.650725841522217
+fgd_dist=86.61373290735762
+feat_dist=35.273345947265625
+Beat consistency score=tensor(0.7841, dtype=torch.float64)
+}
+
+Time: 2024-12-13 13:10:06
+probtalk : 
+{
+error=10.977484703063965
+diverse=0.33792656660079956
+L1_div=7.63331937789917
+fgd_dist=23.06719916538583
+feat_dist=35.830413818359375
+Beat consistency score=tensor(0.7834, dtype=torch.float64)
+}
+
+Time: 2024-12-13 13:22:25
+probtalk : 
+{
+error=10.962654113769531
+diverse=0.3335493206977844
+L1_div=7.715665817260742
+fgd_dist=5.876679489461935
+feat_dist=36.02198028564453
+Beat consistency score=tensor(0.7845, dtype=torch.float64)
+}
+
+Time: 2024-12-13 13:34:37
+probtalk : 
+{
+error=10.996174812316895
+diverse=0.3409508168697357
+L1_div=7.697188854217529
+fgd_dist=13.629599350887474
+feat_dist=36.011260986328125
+Beat consistency score=tensor(0.7842, dtype=torch.float64)
+}
+
+Time: 2024-12-13 13:46:58
+probtalk : 
+{
+error=10.963181495666504
+diverse=0.33516961336135864
+L1_div=7.638455867767334
+fgd_dist=4.963248158380509
+feat_dist=36.1356086730957
+Beat consistency score=tensor(0.7840, dtype=torch.float64)
+}
+
+Time: 2024-12-13 13:58:54
+probtalk : 
+{
+error=10.968328475952148
+diverse=0.32981735467910767
+L1_div=7.6960344314575195
+fgd_dist=10.85229155848333
+feat_dist=36.61602020263672
+Beat consistency score=tensor(0.7835, dtype=torch.float64)
+}
+
+Time: 2024-12-13 14:11:06
+probtalk : 
+{
+error=10.934924125671387
+diverse=0.32651934027671814
+L1_div=7.694875717163086
+fgd_dist=3.113656790068376
+feat_dist=36.3436279296875
+Beat consistency score=tensor(0.7831, dtype=torch.float64)
+}
+
+Time: 2024-12-13 14:23:05
+probtalk : 
+{
+error=10.945489883422852
+diverse=0.32859307527542114
+L1_div=7.6522369384765625
+fgd_dist=9.855829912687682
+feat_dist=35.864891052246094
+Beat consistency score=tensor(0.7832, dtype=torch.float64)
+}
+
+Time: 2024-12-13 14:35:10
+probtalk : 
+{
+error=10.959532737731934
+diverse=0.34225746989250183
+L1_div=7.693471431732178
+fgd_dist=26.51812120975444
+feat_dist=35.59736633300781
+Beat consistency score=tensor(0.7836, dtype=torch.float64)
+}
+
+Time: 2024-12-13 14:47:15
+probtalk : 
+{
+error=10.98184585571289
+diverse=0.3305628299713135
+L1_div=7.685932159423828
+fgd_dist=4.003214221216524
+feat_dist=36.28718566894531
+Beat consistency score=tensor(0.7831, dtype=torch.float64)
+}
+
